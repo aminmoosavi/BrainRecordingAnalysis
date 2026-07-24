@@ -1,4 +1,4 @@
-### Brain Recording Analysis Repositories
+### Brain Recording Data Repositories
 
 * **Repository**:
 
